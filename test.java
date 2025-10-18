@@ -1,6 +1,6 @@
 class test {
 	public static void main(String args[]) {
-		String a = null;
+		String a;
 		String b = "";
 		if (a.equals("1")) {
 			System.out.println("true");
@@ -9,4 +9,5 @@ class test {
 		}
 	}
 }
+
 
